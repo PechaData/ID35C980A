@@ -1,39 +1,39 @@
 {
   "id": "ID35C980A",
   "title": {
-    "en": "Selected Word Commentary on the Dakpo Lineage Achievement Tree's Explanation of the Entry",
-    "bo": "འཇུག་པའི་རྣམ་བཤད་དྭགས་བརྒྱུད་གྲུབ་ཤིང་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།"
+    "bo": "འཇུག་པའི་རྣམ་བཤད་དྭགས་བརྒྱུད་གྲུབ་ཤིང་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།",
+    "en": "Selected Word Commentary on the Dakpo Lineage Achievement Tree's Explanation of the Entry"
   },
   "author": {
-    "en": "None",
-    "bo": "མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།"
+    "bo": "མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།",
+    "en": "None"
   },
-  "imported": "2025-02-06T10:52:49.258187",
+  "imported": "2025-02-07T14:53:11.840081",
   "source": "https://library.bdrc.io/show/bdr:WA3JT13380?tabs=bdr:MW3JT13380,bdr:W3JT13380",
   "toolkit_version": "0.0.1",
   "parser": "DocxNumberListCommentaryParser",
   "initial_creation_type": "google_docx",
   "language": "bo",
   "source_metadata": {
+    "document_id": "1E9O58dD5aC7sJsiMxG2nLxFcnJSQUPOigp2jdHgnToA",
+    "commentary_alignments": [
+      {
+        "source": "IDA494518/layers/D9F9/Tibetan_Segment-44EC.json",
+        "target": "ID35C980A/layers/1727/Meaning_Segment-BD57.json"
+      }
+    ],
+    "long_title": {
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དྭགས་བརྒྱུད་གྲུབ་ཤིང་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།",
+      "en": "Selected Word Commentary on the Dakpo Lineage Achievement Tree's Explanation of the Entry into the Middle Way"
+    },
     "presentation": {
       "en": ""
     },
     "usage_title": {
-      "en": "Selected Word Commentary on the Dakpo Lineage Achievement Tree's Explanation of the Entry",
-      "bo": "འཇུག་པའི་རྣམ་བཤད་དྭགས་བརྒྱུད་གྲུབ་ཤིང་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།"
+      "bo": "འཇུག་པའི་རྣམ་བཤད་དྭགས་བརྒྱུད་གྲུབ་ཤིང་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།",
+      "en": "Selected Word Commentary on the Dakpo Lineage Achievement Tree's Explanation of the Entry"
     },
-    "long_title": {
-      "en": "Selected Word Commentary on the Dakpo Lineage Achievement Tree's Explanation of the Entry into the Middle Way",
-      "bo": "དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དྭགས་བརྒྱུད་གྲུབ་ཤིང་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།"
-    },
-    "commentary_of": "IDA494518",
-    "document_id": "1E9O58dD5aC7sJsiMxG2nLxFcnJSQUPOigp2jdHgnToA",
-    "commentary_alignments": [
-      {
-        "source": "IDA494518/layers/7A88/Tibetan_Segment-4EF4.json",
-        "target": "ID35C980A/layers/B490/Meaning_Segment-E95F.json"
-      }
-    ]
+    "commentary_of": "IDA494518"
   },
   "bases": [],
   "copyright": {
